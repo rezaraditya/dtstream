@@ -10,10 +10,7 @@ import streamlit as st
 import re
 
 
-st.set_page_config(layout="wide"
-                  <style= 'background: blue'>
-                  
-                  )
+st.set_page_config(layout="wide")
 
 st.write("""
 <div style='text-align:center'>
