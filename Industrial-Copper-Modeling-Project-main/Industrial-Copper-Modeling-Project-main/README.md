@@ -1,40 +1,6 @@
 # NAMA : REZA RADITYA
 # NIM : 231352004
 
-<style>
-body{
-  background : #4329;
-  }
-
-.kata{
-    background-color : purple;
-    border-radius : 3px solid white;
-}
-p{
-    color : yellow;
-    font-size: 10pt;
-    font-weight: 2rem;
-    border-radius : 2px solid black;
-    -color: blue;
-}
-.hasil{
-    color: yellow;
-    background: black;
-    border-radius: 3px solid white;
-    padding: 10px 10px;
-}
-.deret{
-  margin: 10px;
-}
-.classification h3{
-  color: white;
-  text-transform: uppercase;
-}
-.linkdata{
-  font-size: 14pt;
-  color: blue;
-}
-</style>
 <body>
 
 
@@ -342,3 +308,37 @@ df.head(2)
 link : https://dtstream-6rczlw6dreju4mvcuosj5x.streamlit.app/
 
 </body>
+<style>
+body{
+  background : #4329;
+  }
+
+.kata{
+    background-color : purple;
+    border-radius : 3px solid white;
+}
+p{
+    color : yellow;
+    font-size: 10pt;
+    font-weight: 2rem;
+    border-radius : 2px solid black;
+    -color: blue;
+}
+.hasil{
+    color: yellow;
+    background: black;
+    border-radius: 3px solid white;
+    padding: 10px 10px;
+}
+.deret{
+  margin: 10px;
+}
+.classification h3{
+  color: white;
+  text-transform: uppercase;
+}
+.linkdata{
+  font-size: 14pt;
+  color: blue;
+}
+</style>
