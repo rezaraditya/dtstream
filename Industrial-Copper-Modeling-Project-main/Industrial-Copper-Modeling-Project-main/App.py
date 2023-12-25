@@ -8,7 +8,9 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.preprocessing import LabelBinarizer
 import streamlit as st
 import re
-st.set_page_config(layout="wide")
+
+
+st.set_page_config(layout="wide",background: "blue")
 
 st.write("""
 <div style='text-align:center'>
