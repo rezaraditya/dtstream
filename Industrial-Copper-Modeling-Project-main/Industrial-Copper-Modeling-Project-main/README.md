@@ -308,6 +308,7 @@ df.head(2)
 link : https://dtstream-6rczlw6dreju4mvcuosj5x.streamlit.app/
 
 </body>
+## Style
 <style>
 body{
   background : #4329;
